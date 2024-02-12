@@ -1,0 +1,16 @@
+{
+    "name": "adisb/luckru",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adis Bakytov"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
